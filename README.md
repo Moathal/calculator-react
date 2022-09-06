@@ -12,7 +12,7 @@
 
 
 ## live preview
-[Click Here](https://Moathal.github.io/calculator-react)
+Not yet available.
 
 
 ## Getting Started
