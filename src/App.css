@@ -1,5 +1,5 @@
 .calc {
-  width:calc(13.9rem + 4px);
+  width: calc(13.9rem + 4px);
   padding: 2px;
   display: flex;
   align-items: center;

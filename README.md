@@ -25,7 +25,7 @@ Not yet available.
 - clone the project
 - `cd calculator-react`
 - `npm i`
-- 'npm start'
+- `npm start`
 
 
 ## Authors
