@@ -1,0 +1,20 @@
+.quote {
+  padding: 3rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: calc(100% - 12rem);
+}
+
+h3 {
+  color: #a34d07;
+  text-align: right;
+  width: calc(100% - 3rem);
+  margin-top: 2.5rem;
+}
+
+q {
+  font-size: 1.8rem;
+  text-align: center;
+}

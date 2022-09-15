@@ -1,0 +1,17 @@
+.home {
+  padding: 4rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  height: 100%;
+  gap: 2rem;
+}
+
+h2.homeHead {
+  margin-bottom: 2.5rem;
+}
+
+p {
+  font-size: 1.25rem;
+}
