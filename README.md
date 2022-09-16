@@ -12,7 +12,7 @@
 
 
 ## live preview
-Not yet available.
+https://63246c9d5ddea7394fb618b4--fastidious-jelly-2a5aaa.netlify.app/calculator
 
 
 ## Getting Started
