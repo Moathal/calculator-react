@@ -12,7 +12,7 @@
 
 
 ## live preview
-[Click Here](https://Moathal.github.io/calculator-react)
+Not yet available.
 
 
 ## Getting Started
@@ -25,7 +25,7 @@
 - clone the project
 - `cd calculator-react`
 - `npm i`
-- 'npm start'
+- `npm start`
 
 
 ## Authors
